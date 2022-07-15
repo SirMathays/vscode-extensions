@@ -1,0 +1,28 @@
+{
+    "name": "laravel-extension-collection",
+    "publisher": "sirmathays",
+    "displayName": "SirMathays's Collection of Laravel Extensions",
+    "description": "Collection of Laravel extensions SirMathays uses.",
+    "repository": {
+        "url": "https://github.com/sirmathays/vscode-extensions"
+    },
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "amiralizadeh9480.laravel-extra-intellisense",
+        "codingyu.laravel-goto-view",
+        "MehediDracula.php-namespace-resolver",
+        "neilbrayfield.php-docblocker",
+        "onecentlin.laravel-blade",
+        "onecentlin.laravel-extension-pack",
+        "onecentlin.laravel5-snippets",
+        "ryannaddy.laravel-artisan",
+        "stef-k.laravel-goto-controller",
+        "xdebug.php-debug"
+    ]
+}

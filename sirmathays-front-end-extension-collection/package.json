@@ -1,0 +1,26 @@
+
+{
+    "name": "front-end-extension-collection",
+    "publisher": "sirmathays",
+    "displayName": "SirMathays's Collection of Front-end Extensions",
+    "description": "Collection of Front-end extensions SirMathays uses.",
+    "repository": {
+        "url": "https://github.com/sirmathays/vscode-extensions"
+    },
+    "version": "1.1.0",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "bradlc.vscode-tailwindcss",
+        "christian-kohler.npm-intellisense",
+        "csstools.postcss",
+        "dbaeumer.vscode-eslint",
+        "octref.vetur",
+        "pranaygp.vscode-css-peek",
+        "wix.vscode-import-cost"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "dark-theme",
+    "publisher": "SirMathays",
+    "displayName": "SirMathays's Dark Theme",
+    "description": "The dark theme SirMathays uses.",
+    "repository": {
+        "url": "https://github.com/sirmathays/vscode-extensions"
+    },
+    "version": "1.1.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SM Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SM Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}

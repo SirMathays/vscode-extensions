@@ -1,0 +1,49 @@
+{
+    "name": "helpful-extension-collection",
+    "publisher": "sirmathays",
+    "displayName": "SirMathays's Collection of Helpful Extensions",
+    "description": "Collection of helpful extensions SirMathays uses.",
+    "repository": {
+        "url": "https://github.com/sirmathays/vscode-extensions"
+    },
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "af4jm.vscode-icalendar",
+        "bibhasdn.unique-lines",
+        "bierner.markdown-emoji",
+        "bmewburn.vscode-intelephense-client",
+        "ChristianAlexander.flip",
+        "dart-code.dart-code",
+        "dart-code.flutter",
+        "davidanson.vscode-markdownlint",
+        "DotJoshJohnson.xml",
+        "dqisme.sync-scroll",
+        "eamodio.gitlens",
+        "editorconfig.editorconfig",
+        "espresso3389.unixtime-converter",
+        "geddski.macros",
+        "grapecity.gc-excelviewer",
+        "gruntfuggly.todo-tree",
+        "josee9988.minifyall",
+        "lixquid.calculator",
+        "mhutchie.git-graph",
+        "mikestead.dotenv",
+        "ms-vscode.sublime-keybindings",
+        "ms-vsliveshare.vsliveshare",
+        "neptunedesign.vs-slug",
+        "pdconsec.vscode-print",
+        "pkief.material-icon-theme",
+        "redhat.vscode-yaml",
+        "sadesyllas.vscode-workspace-switcher",
+        "sirmathays.dark-theme",
+        "sleistner.vscode-fileutils",
+        "visualstudioexptteam.vscodeintellicode",
+        "wmaurer.change-case"
+    ]
+}
